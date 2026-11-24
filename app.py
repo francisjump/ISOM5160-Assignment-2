@@ -27,11 +27,11 @@ SECRET PHRASE (must appear on the app page): ISOM5160-HW2-SMS
 # =============================================================================
 # STUDENT ANSWERS BLOCK (fill in; keep this in the SAME .py file)
 # =============================================================================
-# Student ID: YOUR_STUDENT_ID
+# Student ID: 21343455
 #
 # GenAI acknowledgment (required if you used GenAI; otherwise write "None"):
-#   - Tools used: YOUR_ANSWER
-#   - How you used them: YOUR_ANSWER
+#   - Tools used: None
+#   - How you used them: None
 #
 # Q1. Who is the primary business user of this app?
 #     (one short sentence; e.g., an employee or a security analyst reviewing
